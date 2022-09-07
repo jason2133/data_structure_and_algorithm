@@ -11,3 +11,4 @@ if __name__ == '__main__':
     money = int(input("input money >> "))
     change = coinChange_(money)
     print(f'{money}원은 500원 {change[0]}개, 100원 {change[1]}개, 50원 {change[2]}개, 10원 {change[3]}개이며 나머지는 {change[4]}원으로 교환됨')    
+    

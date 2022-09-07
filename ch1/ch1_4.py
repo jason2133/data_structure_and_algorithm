@@ -10,3 +10,4 @@ if __name__ == '__main__':
     water_per_person = int(input('water_per_person : '))
     result = water_purchase(mt_person, water_per_person)
     print(f'생수 패키지 개수 : {result[0]}개, 생수 낱개 개수 : {result[1]}개, 전체 구매액 : {result[2]}원')
+

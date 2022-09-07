@@ -11,3 +11,4 @@ if __name__ == '__main__':
     b = int(input('Target : '))
     value = sum_index(a, b)
     print(value)
+
