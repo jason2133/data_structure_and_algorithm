@@ -5,7 +5,7 @@
 
 |Chapter|Contents|Num|Title|
 |:------:|:-----:|:-----:|:-----:|
-|1-1|Data Structure and Algorithm|1|동전 바꾸기</br>그리디 알고리즘|
+|1|Data Structure and Algorithm|1-1|동전 바꾸기</br>그리디 알고리즘|
 |||1-2|동전 바꾸기</br>그리디 알고리즘|
 |||2-1|두 수 합치기 → 인덱스 번호 계산</br>(내 풀이)|
 |||2-2|두 수 합치기 → 인덱스 번호 계산</br>(교안 풀이)|
