@@ -5,27 +5,32 @@
 
 |Chapter|Contents|File Name|Title|
 |:------:|:-----:|:-----:|:-----:|
-|1|Data Structure and Algorithm|two_sum_1|두 수 합치기 → 인덱스 번호 계산</br>(내 풀이)|
-|||two_sum_2|두 수 합치기 → 인덱스 번호 계산</br>(교안 풀이)|
-|||coinchange_1|동전 바꾸기</br>그리디 알고리즘|
-|||coinchange_2|동전 바꾸기</br>그리디 알고리즘|
-|||water_purchase_1|생수 주문수 및 금액 계산|
-|||water_purchase_2|생수 주문수 및 금액 계산|
-|||str_input_data|Input Data에서의 Str|
-|||if_else_input_1|Input을 활용한 If와 Else문|
-|||if_else_input_2|Input을 활용한 If와 Else문|
-|||if_else_while_break|If 및 Else문에서의</br>While 및 Break문|
-|||list_dict|List 및 Dictionary|
-|||list_dict_comprehension|List 및 Dictionary</br>→ Comprehension|
-|||list_for_slicing|List에서의 For문 및 Slicing 활용|
-|||for_continue|For문 및 Continue|
-|||break_continue|Break 및 Continue|
-|||membership_1|고객 등급 프로그램|
-|||random_randint|Random문 및 Randint|
-|||random_int_game|컴퓨터의 Random과</br>유저의 Input간의 Game|
-|||turtle_1_casebycase|Turtle을 활용한 다각형 그리기</br>(일일이)|
-|||turtle_2_for|Turtle을 활용한 다각형 그리기</br>(For문 자동화)|
-
+|1|Data Structure and Algorithm|1_1_two_sum_1|두 수 합치기 → 인덱스 번호 계산</br>(내 풀이)|
+|||1_2_two_sum_2|두 수 합치기 → 인덱스 번호 계산</br>(교안 풀이)|
+|||2_1_coinchange_1|동전 바꾸기</br>그리디 알고리즘|
+|||2_2_coinchange_2|동전 바꾸기</br>그리디 알고리즘|
+|||3_1_water_purchase_1|생수 주문수 및 금액 계산|
+|||3_2_water_purchase_2|생수 주문수 및 금액 계산|
+|||4_str_input_data|Input Data에서의 Str|
+|||5_1_if_else_input_1|Input을 활용한 If와 Else문|
+|||5_2_if_else_input_2|Input을 활용한 If와 Else문|
+|||6_if_else_while_break|If 및 Else문에서의</br>While 및 Break문|
+|||7_list_dict|List 및 Dictionary|
+|||8_list_dict_comprehension|List 및 Dictionary</br>→ Comprehension|
+|||9_list_for_slicing|List에서의 For문 및 Slicing 활용|
+|||10_for_continue|For문 및 Continue|
+|||11_break_continue|Break 및 Continue|
+|||12_membership_1|고객 등급 프로그램|
+|||13_random_randint|Random문 및 Randint|
+|||14_random_int_game|컴퓨터의 Random과</br>유저의 Input간의 Game|
+|||15_1_turtle_1_casebycase|Turtle을 활용한 다각형 그리기</br>(일일이)|
+|||15_2_turtle_2_for|Turtle을 활용한 다각형 그리기</br>(For문 자동화)|
+|||16_function_type|Python 함수 출력 가능 유형|
+|||17_changeable_dictionary|가변 매개변수 - Dictionary|
+|||18_1_changeable_tuple|가변 매개변수 - Tuple|
+|||18_2_changeable_tuple|가변 매개변수 - Tuple|
+|||19_import_random_log|Random 불러오고 log 진행|
+|||20_class_init|Class에서의 def __init__ 초기화|
 
 
 
