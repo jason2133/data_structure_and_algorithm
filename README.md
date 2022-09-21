@@ -31,6 +31,8 @@
 |||18_2_changeable_tuple|가변 매개변수 - Tuple|
 |||19_import_random_log|Random 불러오고 log 진행|
 |||20_class_init|Class에서의 def __init__ 초기화|
+|||21_1_overriding|객체지향 - 상속, 오버라이딩|
+|||21_2_overriding|객체지향 - 상속, 오버라이딩|
 
 
 
