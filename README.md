@@ -40,7 +40,7 @@
 |||26_structure_list|list를 활용한 구조체|
 |||27_structure_dictionary|Dictionary를 활용한 구조체|
 |||28_structure_tuple|Tuple을 활용한 구조체|
-
+|2|List|1_list|리스트|
 
 
 
