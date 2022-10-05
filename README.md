@@ -33,6 +33,14 @@
 |||20_class_init|Class에서의 def __init__ 초기화|
 |||21_1_overriding|객체지향 - 상속, 오버라이딩|
 |||21_2_overriding|객체지향 - 상속, 오버라이딩|
+|||22_unpacking|언패킹|
+|||23_unpacking|언패킹|
+|||24_structure_class_Node|class Node 구조체|
+|||25_structure_dataclass|dataclass를 활용한 구조체|
+|||26_structure_list|list를 활용한 구조체|
+|||27_structure_dictionary|Dictionary를 활용한 구조체|
+|||28_structure_tuple|Tuple을 활용한 구조체|
+|2|List|1_list|리스트|
 
 
 
