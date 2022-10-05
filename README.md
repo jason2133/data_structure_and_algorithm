@@ -3,6 +3,14 @@
 - Problem Solving of Algorithm using Python
 - Lecture by Hoeryeon Choi, School of Industrial Management Engineering, Korea University
 
+## Abstract
+|Chapter|Contents|
+|:------:|:-----:|
+|1|Data Structure and Algorithm|
+|2|List|
+|3|Stack|
+
+## Details
 |Chapter|Contents|File Name|Title|
 |:------:|:-----:|:-----:|:-----:|
 |1|Data Structure and Algorithm|1_1_two_sum_1|두 수 합치기 → 인덱스 번호 계산</br>(내 풀이)|
