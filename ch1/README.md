@@ -1,15 +1,4 @@
-# Data Structure and Algorithm
-- Korea Univ. / Data Structure and Alogrithm / IMEN224 / 2022 Fall
-- Problem Solving of Algorithm using Python
-- Lecture by Hoeryeon Choi, School of Industrial Management Engineering, Korea University
-
-## Abstract
-|Chapter|Contents|
-|:------:|:-----:|
-|1|Data Structure and Algorithm|
-|2|List|
-|3|Stack|
-
+# Chapter 1
 ## Details
 |Chapter|Contents|File Name|Title|
 |:------:|:-----:|:-----:|:-----:|
@@ -48,10 +37,3 @@
 |||26_structure_list|list를 활용한 구조체|
 |||27_structure_dictionary|Dictionary를 활용한 구조체|
 |||28_structure_tuple|Tuple을 활용한 구조체|
-|2|List|1_list|리스트|
-|||2_list_append_remove|리스트 추가 및 삭제 직접 인덱스 기반 함수 구현|
-|||3_list_insert|리스트 Insert 구현|
-|||4_1_palindrome|펠린드롬 : List|
-|||4_2_palindrome|펠린드롬 : Deque|
-|3|Stack|1_stack|스택|
-
