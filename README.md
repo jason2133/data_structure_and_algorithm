@@ -60,6 +60,7 @@
 |||3_2_reverse_str|문자열 거꾸로 출력 stack 구조|
 |||4_1_check_bracket|괄호 매칭 확인 ()|
 |||4_2_check_bracket|괄호 매칭 확인 (), {}, []|
+|4|Queue|1_queue|큐|
 
 ## Assignment
 |Num|Contents|
