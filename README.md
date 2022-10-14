@@ -9,6 +9,7 @@
 |1|Data Structure and Algorithm|
 |2|List|
 |3|Stack|
+|4|Queue|
 
 ## Details
 |Chapter|Contents|File Name|Title|
