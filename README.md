@@ -15,8 +15,12 @@
 |7|Stack - 단순연결리스트|
 |8|Tree - 구현 기본 이론 (재귀함수)|
 |9|Tree|
+|10|Priority Queue - Binary Heap|
+|11|탐색 알고리즘 - 순차|
+|12|탐색 알고리즘 - 이진|
+|13|탐색 알고리즘 - 해시|
 
-## Details
+<!-- ## Details
 |Chapter|Contents|File Name|Title|
 |:------:|:-----:|:-----:|:-----:|
 |1|Data Structure and Algorithm|1_1_two_sum_1|두 수 합치기 → 인덱스 번호 계산</br>(내 풀이)|
@@ -65,10 +69,12 @@
 |||3_2_reverse_str|문자열 거꾸로 출력 stack 구조|
 |||4_1_check_bracket|괄호 매칭 확인 ()|
 |||4_2_check_bracket|괄호 매칭 확인 (), {}, []|
-|4|Queue|1_queue|큐|
+|4|Queue|1_queue|큐| -->
 
 ## Assignment
 |Num|Contents|
 |:------:|:-----:|
 |1|i~j 사이 구간의 합을 구하는 문제|
 |2|Stack을 이용하여 후위 표현식을 계산|
+|3|Heapq를 이용하여 계산하는 야근 피로도|
+|4|이진탐색트리 삭제 코드|
